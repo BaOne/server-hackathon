@@ -1,6 +1,6 @@
 [
 {
-	"user_id": 1,
+	"id": 1,
 	"token_id": 123123123,
 	"nom_collab": "Dupont",
     "prenom_collab": "Isabelle",
@@ -8,7 +8,7 @@
     "longitude": 2.3872219000000177
 },
 {
-	"user_id": 2,
+	"id": 2,
 	"token_id": 899899,
 	"nom_collab": "Nguyen",
     "prenom_collab": "Bao",
@@ -16,7 +16,7 @@
     "longitude": 2.35226519000000177
 },
 {
-	"user_id": 3,
+	"id": 3,
 	"token_id": 456123123,
 	"nom_collab": "Benoit",
     "prenom_collab": "Julien",
