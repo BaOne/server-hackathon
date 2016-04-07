@@ -11,7 +11,8 @@ module.exports = (router) => {
         console.log(err);
       }
       var querySpec = {
-        query: "SELECT r.id,r.position,r.date,r.hasMeta FROM root r"
+        //query: "SELECT r.id,r.position,r.date,r.hasMeta FROM root r"
+        query: "SELECT * FROM root r"
       };
 
       dbUtils.client.queryDocuments(collection._self, querySpec).toArray((err, results) => {
