@@ -1,6 +1,6 @@
 # server
 
-> Serveur du projet namecode "emergen6".
+> Serveur du projet namecode "axasafe".
 
 ## Infos pratique
 
